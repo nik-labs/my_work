@@ -1,5 +1,6 @@
 # my_work
-This respository contains all of my professional development training artifacts and certifications. Specifically, these materials include:
+This respository contains examples of my professional development training artifacts and certifications. 
+Specifically, the following materials include:
 
 1. Data Science Professional Certification from Harvard University
    I successfully completed 9 individual data science certificates and subsequently received a professional certification in Data Science.
