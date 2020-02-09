@@ -15,4 +15,4 @@ Specifically, the following materials include:
    A comprehensive introduction to the software as they create their own processes, objects and work queues, and discover how these interact with each other. Upon completion of the course, trainees are required to complete a consolidation exercise, demonstrating understanding and application of the key concepts introduced during the course
 
 4. Blue Prism Robotic Process Automation (RPA) Certification in Practitioner Training.
-   The Practitioner course addresses best practices and practical applications of an automation process lifecycle, providing a deeper level of understanding of the functions and capabilities of Blue Prism IPA software. Completing Agilify's Foundations Training is recommended.
+   The Practitioner course addresses best practices and practical applications of an automation process lifecycle, providing a deeper level of understanding of the functions and capabilities of Blue Prism IPA software. Completing Agilify's Foundations Training is a pre-requisite.
