@@ -7,7 +7,7 @@ This respository contains all of my professional development training artifacts 
    Curriculum Overview:
    The program covers concepts such as probability, inference, regression, and machine learning and helps you develop an essential skill set that includes R programming, data wrangling with dplyr, data visualization with ggplot2, file organization with Unix/Linux, version control with git and GitHub, and reproducible document preparation with RStudio.
 
-2. Python Programming Certificate: Data Structures
+2. Python Programming Certificate in Data Structures from Michigan University
    Explores variables that contain collections of data like string, lists, dictionaries, and tuples. Learning how to store and represent and manipulate data collections while a program is running is an important part of learning how to program.
 
 3. Blue Prism Robotic Process Automation Certification in Foundations Training
