@@ -11,8 +11,8 @@ Specifically, the following materials include:
 2. Python Programming Certificate in Data Structures from Michigan University.
    Explores variables that contain collections of data like string, lists, dictionaries, and tuples. Learning how to store and represent and manipulate data collections while a program is running is an important part of learning how to program.
 
-3. Blue Prism Robotic Process Automation Certification in Foundations Training.
+3. Blue Prism Robotic Process Automation (RPA) Certification in Foundations Training.
    A comprehensive introduction to the software as they create their own processes, objects and work queues, and discover how these interact with each other. Upon completion of the course, trainees are required to complete a consolidation exercise, demonstrating understanding and application of the key concepts introduced during the course
 
-4. Blue Prism Robotic Process Automation Certification in Practitioner Training.
+4. Blue Prism Robotic Process Automation (RPA) Certification in Practitioner Training.
    The Practitioner course addresses best practices and practical applications of an automation process lifecycle, providing a deeper level of understanding of the functions and capabilities of Blue Prism IPA software. Completing Agilify's Foundations Training is recommended.
