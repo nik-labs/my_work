@@ -2,7 +2,7 @@
 This respository contains examples of my professional development training artifacts and certifications. 
 Specifically, the following materials include:
 
-1. Data Science Professional Certification from Harvard University
+1. Data Science Professional Certification from Harvard University \n
    I successfully completed 9 individual data science certificates and subsequently received a professional certification in Data Science.
    
    Curriculum Overview:
