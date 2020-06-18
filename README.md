@@ -19,5 +19,5 @@ Specifically, the following materials include:
 4. Blue Prism Robotic Process Automation (RPA) Certification in Practitioner Training.
    The Practitioner course addresses best practices and practical applications of an automation process lifecycle, providing a deeper level of understanding of the functions and capabilities of Blue Prism IPA software. Completing Agilify's Foundations Training is a pre-requisite.
    
-5. Lean Six Sigma Black Belt (LSSBB) Certification
+5. Lean Six Sigma Black Belt (LSSBB) Certification.
    This instructor led LSSBB certification program provides the skills, tools and knowledge to be successful process improvement efforts by applying advanced Lean approaches as well as change management; leadership and program management skills which are transferable across any organization. The program is typically self-paced allowing participants up to 1 year to complete. The Lean Black Belt certification program and accompanying process delivers an immediate return on investment through a workplace improvement project requirement – over the past 5 years the average savings from Black Belt projects is in excess of $1.7m per student. This program is accredited and validated against stringent external standards.
